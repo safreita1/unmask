@@ -1,6 +1,6 @@
 # UnMask: Adversarial Detection and Defense in Deep Learning Through Building-Block Knowledge Extraction
 
-Accepted to IEEE Big Data 2021
+Accepted to IEEE Big Data 2021. Full paper can be found here: https://arxiv.org/pdf/2002.09576.pdf
 ### Overview:
 
 To combat adversarial attacks on deep learning models, we developed **UnMask**, 
