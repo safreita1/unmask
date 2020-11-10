@@ -1,0 +1,6 @@
+.idea
+data.zip
+notes
+Mask_RCNN/mask_rcnn_coco.h5
+Mask_RCNN/logs/model_k/mask_rcnn_parts_0040.h5
+Mask_RCNN.zip
